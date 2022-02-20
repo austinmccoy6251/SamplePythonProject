@@ -1,5 +1,5 @@
 '''
-    Workbook class holds any and all operations on a workbook that may affect calculated cell
+   Sample class
 '''
 
 # Standard imports
